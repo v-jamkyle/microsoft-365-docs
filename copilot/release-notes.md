@@ -163,7 +163,7 @@ Updates released between April 29, 2025, and May 13, 2025.
 
   Find a dedicated Copilot icon in your web spreadsheet, allowing you to tap into AI-powered insights and streamline tasks without breaking your workflow.
  <a href="https://support.microsoft.com/office/get-started-with-copilot-in-excel-d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Learn more.</a>
-- **Visual cue for Copilot’s data context** [Web, Windows, Mac]
+- ** for Copilot’s data context** [Web, Windows, Mac]
 
   A subtle outline now highlights the exact cells or table Copilot is working with, so you can confirm the right data is selected before insights or edits are generated.
 ### Microsoft 365 admin center
